@@ -1,0 +1,17 @@
+
+Single-Source Shortest Path (SP)
+
+Compile:
+
+    make            # Baseline CDP version
+    make all        # All versions
+    make test       # Test compiled versions
+    make test-all   # Compile all versions and test them
+
+Run:
+
+    ./sssp.<version>
+    ./sssp.<version> -h   # Help
+
+Source: M. Burtscher, R. Nasre, and K. Pingali. “A quantitative study of irregular programs on GPUs.” In Proceedings of the 2012 IEEE International Symposium on Workload Characterization (IISWC), pp. 141–151, Nov 2012.
+
