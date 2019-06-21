@@ -1,0 +1,17 @@
+
+Breadth First Search (BFS)
+
+Compile:
+
+    make            # Baseline CDP version
+    make all        # All versions
+    make test       # Test compiled versions
+    make test-all   # Compile all versions and test them
+
+Run:
+
+    ./bfs.<version>
+    ./bfs.<version> -h  # Help
+
+Source: A. Danalis, G. Marin, C. McCurdy, J. S. Meredith, P. C. Roth, K. Spafford, V. Tipparaju, and J. S. Vetter. "The Scalable Heterogeneous Computing (SHOC) Benchmark Suite." In Proceedings of the 3rd Workshop on General-Purpose Computation on Graphics Processing Units, GPGPU3, pp. 63–74, ACM, 2010.
+

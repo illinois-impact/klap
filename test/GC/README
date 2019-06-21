@@ -1,0 +1,17 @@
+
+Graph Coloring (GC)
+
+Compile:
+
+    make            # Baseline CDP version
+    make all        # All versions
+    make test       # Test compiled versions
+    make test-all   # Compile all versions and test them
+
+Run:
+
+    ./gc.<version>
+    ./gc.<version> -h   # Help
+
+Source: A. V. P. Grosset, P. Zhu, S. Liu, S. Venkatasubramanian, and M. Hall. “Evaluating graph coloring on GPUs.” In Proceedings of the 16th ACM Symposium on Principles and Practice of Parallel Programming, PPoPP'11, pp. 297–298, ACM, 2011.
+

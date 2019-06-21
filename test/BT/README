@@ -1,0 +1,17 @@
+
+Bezier Lines Tessellation (BT)
+
+Compile:
+
+    make            # Baseline CDP version
+    make all        # All versions
+    make test       # Test compiled versions
+    make test-all   # Compile all versions and test them
+
+Run:
+
+    ./bt.<version>
+    ./bt.<version> -h   # Help
+
+Source: NVIDIA CUDA SDK.
+

@@ -11,6 +11,8 @@ Refer to `src` for instructions on how to build the compiler.
 
 Refer to `include` for instructions on how to setup the runtime.
 
+Refer to `test` for instructions on how to run the benchmarks.
+
 ## Citation
 
 Please cite the following paper if you find this work useful:
